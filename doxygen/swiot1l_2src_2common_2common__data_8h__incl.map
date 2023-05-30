@@ -1,0 +1,24 @@
+<map id="projects/swiot1l/src/common/common_data.h" name="projects/swiot1l/src/common/common_data.h">
+<area shape="rect" id="node1" title="Defines common data to be used by the swiot1l project." alt="" coords="250,5,442,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,156,121"/>
+<area shape="rect" id="node3" href="$ad74413r_8h.html" title="Header file of AD74413r Driver." alt="" coords="603,393,697,420"/>
+<area shape="rect" id="node8" href="$swiot_8h.html" title="Header file for the swiot IIO device." alt="" coords="463,95,533,121"/>
+<area shape="rect" id="node16" href="$iio__trigger_8h.html" title="Header file for iio_trigger." alt="" coords="827,244,926,271"/>
+<area shape="rect" id="node18" href="$max14906_8h.html" title="Header file of MAX14906 Driver." alt="" coords="284,393,387,420"/>
+<area shape="rect" id="node20" href="$adin1110_8h.html" title=" " alt="" coords="411,393,505,420"/>
+<area shape="rect" id="node21" href="$adt75_8h.html" title="Header file of ADT75 Driver." alt="" coords="159,393,229,420"/>
+<area shape="rect" id="node4" title=" " alt="" coords="697,543,768,569"/>
+<area shape="rect" id="node5" title=" " alt="" coords="325,543,407,569"/>
+<area shape="rect" id="node6" href="$no__os__spi_8h.html" title="Header file of SPI Interface." alt="" coords="409,468,507,495"/>
+<area shape="rect" id="node7" href="$no__os__gpio_8h.html" title="Header file of GPIO Interface." alt="" coords="531,468,638,495"/>
+<area shape="rect" id="node9" href="$iio__ad74413r_8h.html" title="Header file of the IIO AD74413r Driver." alt="" coords="709,169,826,196"/>
+<area shape="rect" id="node10" href="$iio_8h.html" title="Header file of iio." alt="" coords="851,319,902,345"/>
+<area shape="rect" id="node11" href="$iio__types_8h.html" title="Header file for iio_types." alt="" coords="954,393,1047,420"/>
+<area shape="rect" id="node13" href="$no__os__uart_8h.html" title="Header file of UART interface." alt="" coords="824,393,929,420"/>
+<area shape="rect" id="node12" href="$no__os__circular__buffer_8h.html" title="Circular buffer library header." alt="" coords="1123,468,1294,495"/>
+<area shape="rect" id="node14" href="$no__os__lf256fifo_8h.html" title="SPSC lock&#45;free fifo of fixed size (256), specialized for UART." alt="" coords="814,468,947,495"/>
+<area shape="rect" id="node15" title=" " alt="" coords="545,543,616,569"/>
+<area shape="rect" id="node17" href="$no__os__irq_8h.html" title="Header file of IRQ interface." alt="" coords="1165,319,1261,345"/>
+<area shape="rect" id="node19" href="$no__os__util_8h.html" title="Header file of utility functions." alt="" coords="111,468,211,495"/>
+<area shape="rect" id="node22" href="$no__os__i2c_8h.html" title="Header file of I2C Interface." alt="" coords="235,468,334,495"/>
+</map>
