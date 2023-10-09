@@ -286,7 +286,7 @@ $(OBJECTS_DIR)%/.:
 .SECONDEXPANSION:
 $(OBJECTS_DIR)/%.o: $$(call get_full_path, %).c | $$(@D)/.
 	$(call print,[CC] $(notdir $<))
-	$(CC) -c @$(CFLAGS_FILE) $< -o $@
+	$(CC) -c @$(CFLAGS_FILE) $< -o $@ -L ${LIB_AD9430}
 
 $(OBJECTS_DIR)/%.o: $$(call get_full_path, %).cpp | $$(@D)/.
 	$(call print,[CPP] $(notdir $<))
