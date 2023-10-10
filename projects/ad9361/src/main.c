@@ -588,7 +588,7 @@ int main(void)
 #endif
 	status = axi_dmac_init(&tx_dmac, &tx_dmac_init);
 	if (status < 0) {
-		printf("axi_dmac_init tx init error: %"PRIi32"\n", status);
+		printf("axi_dmac_init TX initial error: %"PRIi32"\n", status);
 		return status;
 	}
 	status = axi_dmac_init(&rx_dmac, &rx_dmac_init);
